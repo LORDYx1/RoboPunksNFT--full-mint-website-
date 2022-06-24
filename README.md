@@ -1,15 +1,8 @@
-# Basic Sample Hardhat Project
+# My first React App
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This is ny first fulla ttempt at building a NFT minting smart contract & connecting it to a react DAPP front end.
 
-Try running some of the following tasks:
+I plan on useing this ass a template to launch my daughters NFT line in the near future.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Think of this as a twmplate for future projects so the Social icons dont lead to specific pages &
+the other NavBAr functions dont lead any where jsut yet.
